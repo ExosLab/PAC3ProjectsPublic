@@ -26,7 +26,7 @@ For all I know this is only an issue on my own machine, and they'll work perfect
 
 - v2_sprinter.txt -
 
-*This outfit is, as far as I can tell, completely nonfunctional. I am uploading it here for preservation's sake. This outfit was to be debuted alongside Tripod V2's demo reel however became completely unusable after some time away from Garry's Mod. This is a small tripod built off antlion guards that I was going to use in-place of a probe on V2 if I couldn't figure out how to do it.*
+*This outfit is, as far as I can tell, completely nonfunctional. I am uploading it here for preservation's sake. This outfit was to be debuted alongside Tripod V2's demo reel however became completely unusable after some time away from Garry's Mod. This is a small tripod built off antlions that I was going to use in-place of a probe on V2 if I couldn't figure out how to do it.*
 
 Special thanks to Starry for their amazing tutorials on the subject matter, and FirePenguin99 for their tutorials on PAC3 Projectiles.
 Also a big thanks to the creator of the outfit *"tutorial tripod base.txt"*, which I downloaded from a YouTube Community post. I would never have figured out how to do probes without that tutorial, though I am now unable to find the post from which I downloaded it. If you know the creator/are the creator, please notify me so I can credit you properly.
